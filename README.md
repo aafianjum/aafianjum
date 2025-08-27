@@ -29,7 +29,7 @@ a challenging role to contribute and learn in an innovative environment.
 
 # My Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riajulpro&show_icons=true&theme=dracula&border_color=333)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aafianjum&show_icons=true&theme=dracula&border_color=333)
 
 # Most Used Language into the Repo:
 
